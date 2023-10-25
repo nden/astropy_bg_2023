@@ -8,7 +8,7 @@
 
 |Time       | Topic                  | Presenter     |
 |-----------|------------------------|---------------|
-|   Day 1   | November 20            |               |
+| ** Day 1**| **November 20**        |               |
 | 9 - 10    | Introductions          | All           |
 | 10 - 12   | Iva's notebooks, mybinder| Iva Momcheva|
 | 12 - 13   | lunch                   |              |
