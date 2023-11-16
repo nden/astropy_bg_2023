@@ -1,0 +1,16 @@
+name: astropy-workshop-env
+
+dependencies:
+  - python == 3.11
+  - jupyter
+  - notebook >= 6.0
+  - matplotlib >= 3.8.0
+  - numpy >= 1.25
+  - packaging
+  - pip
+  - pyyaml
+  - pip:
+      - astropy >= 5.3
+      - ccdproc
+      - pandas
+      

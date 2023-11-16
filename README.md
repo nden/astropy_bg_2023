@@ -1,10 +1,19 @@
 # Python and Astropy Workshop in Bulgaria
-## Nov 20 - 24 2023, Sofia
-
 ### The Astropy Project and The Institute of Astronomy, Bulgarian Academy of Sciences
 
+- DATES: Nov 20 - 24 2023
+- TIME: 9 AM to 5 PM
+- LOCATION: Hotel of the Bulgarian Academy of Sciences, Sofia
 
-#### Schedule
+### PRE-WORKSHOP SETUP
+
+To run all the workshop notebooks on your own computer, please be sure your machine is configured with the packages in the [installation check file](https://github.com/nden/astropy_bg_2023/blob/main/00_Install_and_Setup/). These packages are the ones we use to verify that the notebooks are working as expected.
+
+Follow the instructions in
+[installation](https://github.com/nden/astropy_bg_2023/blob/main/00_Install_and_Setup/Installation.md)
+to install all required packages.
+
+#### Schedule:  9 am - 5 pm
 
 |Time       | Topic                  | Presenter     |
 |-----------|------------------------|---------------|
