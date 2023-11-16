@@ -142,7 +142,7 @@ cd roman-data-workshop-man
 And finally, on any platform, to install and activate the `roman-data-workshop-env` environment, type:
 
 ```shell
-conda env create --file 00_install/environment.yml
+conda env create --file 00_Install/environment.yml
 conda activate roman-data-workshop-env
 ```
 
@@ -155,7 +155,7 @@ In the terminal you used in the preceding step, run the `verify_install.py` scri
 some required dependencies:
 
 ```shell
-python 00_install/verify_install.py
+python 00_Install/verify_install.py
 ```
 
 If the script reports that some versions do not match for a specific package (for example `numpy`), check first whether

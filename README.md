@@ -7,10 +7,10 @@
 
 ### PRE-WORKSHOP SETUP
 
-To run all the workshop notebooks on your own computer, please be sure your machine is configured with the packages in the [installation check file](https://github.com/nden/astropy_bg_2023/blob/main/00_Install_and_Setup/). These packages are the ones we use to verify that the notebooks are working as expected.
+To run all the workshop notebooks on your own computer, please be sure your machine is configured with the packages in the [installation check file](https://github.com/nden/astropy_bg_2023/blob/main/00_Install/environment.yml/). These packages are the ones we use to verify that the notebooks are working as expected.
 
 Follow the instructions in
-[installation](https://github.com/nden/astropy_bg_2023/blob/main/00_Install_and_Setup/Installation.md)
+[installation](https://github.com/nden/astropy_bg_2023/blob/main/00_Install/Installation.md)
 to install all required packages.
 
 #### Schedule:  9 am - 5 pm
