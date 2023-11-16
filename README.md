@@ -17,7 +17,7 @@ to install all required packages.
 
 |Time         | Topic                  | Presenter     |
 |-------------|------------------------|---------------|
-| ** Day 1**  | **November 20**        |               |
+| **Day 1**   | **November 20**        |               |
 | 9 - 9:30    | Introductions          | All           |
 | 10 - 11     | Intro to Python programming| Iva Momcheva|
 | 11 - 11:30  | Break | |
