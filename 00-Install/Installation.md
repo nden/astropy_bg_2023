@@ -123,31 +123,31 @@ and update environments that have different versions of Python and/or packages i
 
 [Create a conda environment for this workshop using a yml file](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
 . The python version and all needed packages are listed in
-[`environment.yml`](https://github.com/spacetelescope/roman-data-workshop/blob/main/00_install/environment.yml).
+[`environment.yml`](https://github.com/nden/astropy_bg_2023/blob/main/00-Install/environment.yml).
 
 Open a terminal window using the appropriate one for your operating system.
 
 Now navigate to this directory in the terminal:
 
 ```shell
-cd roman-data-workshop
+cd astropy_bg_2023
 ```
 
 If you downloaded the zip file instead the directory name will include the name of the branch on Github.
 
 ```shell
-cd roman-data-workshop-man
+cd astropy_bg_2023-main
 ```
 
-And finally, on any platform, to install and activate the `roman-data-workshop-env` environment, type:
+And finally, on any platform, to install and activate the `astropy-workshop-env` environment, type:
 
 ```shell
 conda env create --file 00_Install/environment.yml
-conda activate roman-data-workshop-env
+conda activate astropy-workshop-env
 ```
 
 The name of the new conda environment created above should now be displayed next to the terminal
-prompt: `(roman-data-workshop-env)`
+prompt: `(astropy-workshop-env)`
 
 ## 7. Check Installation
 
