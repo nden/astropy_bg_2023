@@ -13,4 +13,5 @@ dependencies:
       - astropy >= 5.3
       - ccdproc
       - pandas
-      
+      - photutils
+      - astroquery
