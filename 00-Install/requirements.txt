@@ -1,8 +1,6 @@
 jupyter
-notebook>=6.0
 matplotlib>=3.8.0
 numpy>=1.25
-pyyaml
 astropy>=5.3
 ccdproc
 pandas
