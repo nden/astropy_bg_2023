@@ -20,47 +20,48 @@ to install all required packages.
 | **Day 1**   | **November 20**        |               |
 | 9 - 9:30    | Introductions          | All           |
 | 10 - 11     | Intro to Python programming| Iva Momcheva|
-| 11 - 11:30  | Break | |
+| 11 - 11:30  | _Break_ | |
 | 11:30 - 13  | Intro to Python programming| Iva Momcheva|
-| 13 - 14     | lunch                   |              |
+| 13 - 14     | _Lunch_               |              |
 | 14 - 15:30  | Intro to Python programming | Iva Momcheva         |
-| 15:30 - 16  | Break                   |              |
+| 15:30 - 16  | _Break_                   |              |
 | 16 - 17     | Intro to Python programming | Iva Momcheva         |
 |             |                         |              |
 | **Day 2**   | **November 21**        |               |
 | 9 - 11      | Object oriented programming | Aarya Patil|
-| 11 - 11:30  |  Break               |               |
-| 11:30 - 13  | Numpy                | Aarya Patil     |
-| 13 -14      | lunch          |    |
-| 14 - 15:30  |  scipy  |  Aarya Patil|
-| 15:30 - 16  | Break  | |
-| 16 - 17     | numpy, scipy, matplotlib | Aarya Patil|
+| 11 - 11:30  | _Break_               |               |
+| 11:30 - 13  | `numpy`                | Aarya Patil     |
+| 13 -14      | _Lunch_          |    |
+| 14 - 15:30  |  `scipy`  |  Aarya Patil|
+| 15:30 - 16  | _Break_  | |
+| 16 - 17     | `numpy`, `scipy`, `matplotlib` | Aarya Patil|
 |             |                         |              |
 | **Day 3**   | **November 22**        |               |
-| 9 - 11      | Installations      | James Davies, All|
-| 11 - 11:30  | Break        |   |
-| 11:30 - 13  | installations | James Davies, All |
-| 13 -14      | lunch | |
-| 14 - 15:30  |  Astropy I/O – FITS and ascii, FITS WCS | Nadia Dencheva|
-| 15:30 - 16  | Break | | 
-| 16 - 17     | Units, Coordinates, Tables | Nadia Dencheva|
+| 9 - 11      | Installations, Conda  | James Davies, All|
+| 11 - 11:30  | _Break_        |   |
+| 11:30 - 13  | `astropy.io.fits` | Nadia Dencheva|
+| 13 -14      | _Lunch_ | |
+| 14 - 15:30  | `astropy.units` | Nadia Dencheva|
+| 15:30 - 16  | _Break_ | | 
+| 16 - 17     | `astropy.units`, `astropy.table` | Nadia Dencheva|
 |             |                         |              |
 | **Day 4**   | **November 23**        |   
-| 9 - 11      | ccdproc | James Davies|
-| 11 - 11:30  | Break | |
-| 11:30 - 13  | modeling | Nadia Dencheva|
-| 13 - 14     | lunch | |
-| 14 - 15:30  | modeling| Nadia Dencheva |
-| 15:30 - 16  | Break|  |
-| 16 - 17     | photutils | Iva Momcheva|
+| 9:00 - 11:00| `astropy.coordinates` | James Davies|
+| 11 - 11:30  | _Break_ | |
+| 11:30 - 13  | `astropy.modeling` | Nadia Dencheva|
+| 13 - 14     | _Lunch_ | |
+| 14 - 14:30  | `astropy.modeling` | Nadia Dencheva |
+| 14:30 - 15:30  | `astropy.wcs`      | Nadia Dencheva |
+| 15:30 - 16  | _Break_ |  |
+| 16 - 17     | `photutils` | Iva Momcheva|
 |             |                         |              |
 | **Day 5**   | **November 24**        |   
-| 9 - 11      | astroquery | Iva Momcheva|
-| 11 - 11:30  | Break| |
-| 11:30 - 13  | archives | Iva Momcheva|
-| 13 - 14     | lunch ||
+| 9 - 11      | `astroquery` | Iva Momcheva|
+| 11 - 11:30  | _Break_ | |
+| 11:30 - 13  | Archives | Iva Momcheva|
+| 13 - 14     | _Lunch_ | |
 | 14 - 15:30  | Astropy communities and contribution to astropy, general workflow, how to open a Github issue| Aarya, Nadia|
-| 15:30 - 16  | Break | |
+| 15:30 - 16  | _Break_ | |
 | 16 - 17     | Wrap up | |
 
 
