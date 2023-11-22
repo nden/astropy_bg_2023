@@ -52,7 +52,7 @@ conda info
 
 If Miniconda is not already installed, follow these instructions for your operating system:
 
-https://conda.io/projects/conda/en/latest/user-guide/install/index.html
+https://docs.conda.io/projects/miniconda/en/latest/
 
 > Please be sure to install a **64-bit version** of Miniconda to ensure that all packages work correctly.
 
@@ -108,22 +108,14 @@ If using `git`, clone the workshop repository using
 git clone https://github.com/nden/astropy_bg_2023.git
 ```
 
-### Download and extract a ZIP file, from GitHub
-
-If you elect not to use `git`, you can download the ZIP file by opening the green `Code` button at
- https://github.com/nden/astropy_bg_2023.git and selecting `Download ZIP`.
-
-Unzip the file in a location of your preference.
-
 ## 4. Create a `conda` environment for the workshop
 
 > *Miniconda includes an environment manager called conda. Environments allow you to have multiple sets of Python
 packages installed at the same time, making reproducibility and upgrades easier. You can create, export, list, remove,
 and update environments that have different versions of Python and/or packages installed in them.*
 
-[Create a conda environment for this workshop using a yml file](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
-. The python version and all needed packages are listed in
-[`environment.yml`](https://github.com/nden/astropy_bg_2023/blob/main/00-Install/environment.yml).
+Create a conda environment for this workshop. The python version and all needed packages are listed in
+[`requirements.txt`](https://github.com/nden/astropy_bg_2023/blob/main/00-Install/requirements.txt).
 
 Open a terminal window using the appropriate one for your operating system.
 
@@ -133,34 +125,21 @@ Now navigate to this directory in the terminal:
 cd astropy_bg_2023
 ```
 
-If you downloaded the zip file instead the directory name will include the name of the branch on Github.
+And finally, on any platform, to create and activate the `astropy-workshop-env` environment, type:
 
 ```shell
-cd astropy_bg_2023-main
-```
-
-And finally, on any platform, to install and activate the `astropy-workshop-env` environment, type:
-
-```shell
-conda env create --file 00_Install/environment.yml
+conda create -n astropy-workshop-env python=3.11
 conda activate astropy-workshop-env
 ```
 
 The name of the new conda environment created above should now be displayed next to the terminal
 prompt: `(astropy-workshop-env)`
 
-## 7. Check Installation
+## 7. `pip install` packages needed for the workshop
 
-In the terminal you used in the preceding step, run the `verify_install.py` script to check the Python environment and
-some required dependencies:
-
-```shell
-python 00_Install/verify_install.py
-```
-
-If the script reports that some versions do not match for a specific package (for example `numpy`), check first whether
-the package was installed using `conda` or `pip` by using `conda list <package>`:
+In the terminal, use `pip` to install python packages
 
 ```shell
-conda list numpy
+pip install astropy jupyter photutils ccdproc pandas matplotlib
+pip install astroquery --pre
 ```
