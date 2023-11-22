@@ -60,7 +60,7 @@ to install all required packages.
 | 11:00 - 11:30 | _Break_ | |
 | 11:30 - 13:00 | `ccdproc` | James Davies |
 | 13:00 - 14:00 | _Lunch_ | |
-| 14:00 - 15:30 | Astropy communities and contribution to astropy, general workflow, how to open a Github issue | Aarya, Nadia|
+| 14:00 - 15:30 | Astropy communities and contribution to astropy | Aarya, Nadia|
 | 15:30 - 16:00 | _Break_ | |
 | 16:00 - 17:00 | Wrap up | |
 
