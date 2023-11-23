@@ -1,8 +1,9 @@
 jupyter
-matplotlib>=3.8.0
+matplotlib
 numpy>=1.25
 astropy>=5.3
 ccdproc
 pandas
 photutils
+reproject
 astroquery

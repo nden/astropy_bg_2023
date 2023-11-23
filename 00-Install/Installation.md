@@ -140,6 +140,6 @@ prompt: `(astropy-workshop-env)`
 In the terminal, use `pip` to install python packages
 
 ```shell
-pip install astropy jupyter photutils ccdproc pandas matplotlib
+pip install astropy jupyter photutils ccdproc pandas matplotlib scipy reproject
 pip install astroquery --pre
 ```
